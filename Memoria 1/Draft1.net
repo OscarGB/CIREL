@@ -1,0 +1,9 @@
+* C:\Users\Oscar\CIREL\Memoria 1\Draft1.asc
+V1 N001 0 12
+R1 I3 N001 2200
+R2 I3 0 1000
+R3 I3 0 {R}
+.step param R 1 1000000 10
+.op
+.backanno
+.end
