@@ -1,9 +1,0 @@
-* C:\Users\Nacho\CIREL\Memoria 1\Draft2.asc
-V1 N001 0 12
-V2 N002 0 AC 2 0
-R1 A N001 1000
-R2 A 0 2200
-C1 A N002 100n
-.op
-.backanno
-.end
