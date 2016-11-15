@@ -1,0 +1,38 @@
+1)
+
+a)
+Vmin = -2.48V
+Vmax = -1.52V
+Vmedio = -1.99V
+Diferencia de fase = 90º
+
+b) 
+Vmedio del V- del AO = 1.78mV Consideramos ruido del sistema OK
+
+c)
+Vmax = 2.4V
+vmin = -3.5V
+
+d)
+Vmin = -4.5V
+Vmax = 3.3V
+
+2)
+
+a)
+0000 = 0V
+0001 = 50mV
+0010 = 95mV
+0011 = 144mV
+0100 = 212mV
+0101 = 257mV
+0110 = 314mV
+0111 = 357mV
+1000 = 461mV
+1001 = 504mV
+1010 = 559mV
+1011 = 601mV
+1100 = 666mV
+1101 = 715mV
+1110 = 762mV
+1111 = 809mV
